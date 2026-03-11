@@ -10,7 +10,8 @@ RM: 559155 Nome: Thamrs Almeida
 
 RM: 559067 Nome: WerbehKauan Aires Nunes
 
-Estrutura do Projeto
+
+<h1>Estrutura do Projeto<h1>
 O sistema está dividido em três projetos Maven:
 
 Cp-01 (Servidor/Publisher):
@@ -27,7 +28,8 @@ Cp-01pt3 (Cliente 2):
 
 Consome ambos os serviços simultaneamente, permitindo realizar pedidos (placeOrder) e verificar alertas de segurança (sendWarn).
 
-Como Executar
+
+<h1>Como Executar</h1>
 1. Pré-requisitos
 Java JDK 17 ou superior.
 
