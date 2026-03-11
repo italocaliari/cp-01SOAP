@@ -1,8 +1,12 @@
 Integrantes do Grupo:
 RM: 554758 Nome: Italo Caliari Silva
+
 RM: 554676 Nome: Julio Cesar Ruiz Zequin
+
 RM: 559124 Nome: Bento Rangel Da Silva
+
 RM: 559155 Nome: Thamrs Almeida
+
 RM: 559067 Nome: WerbehKauan Aires Nunes
 
 Estrutura do Projeto
