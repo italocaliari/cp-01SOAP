@@ -2,7 +2,7 @@ Integrantes do Grupo:
 
 RM: 554758 Nome: Italo Caliari Silva
 
-RM: 554676 Nome: Julio Cesar Ruiz Zequin
+RM: 554676 Nome: Julio Cesar Ruiz Zequin 
 
 RM: 559124 Nome: Bento Rangel Da Silva
 
