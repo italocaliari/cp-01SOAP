@@ -11,7 +11,7 @@ RM: 559155 Nome: Thamrs Almeida
 RM: 559067 Nome: WerbehKauan Aires Nunes
 
 
-<h1>Estrutura do Projeto<h1>
+<h1>Estrutura do Projeto</h1>
 O sistema está dividido em três projetos Maven:
 
 Cp-01 (Servidor/Publisher):
