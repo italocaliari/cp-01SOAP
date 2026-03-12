@@ -55,12 +55,5 @@
 
   <hr>
 
-  <h2>Tecnologias Utilizadas</h2>
-    <ul>
-        <li>Java JAX-WS</li>
-        <li>Maven</li>
-        <li>IntelliJ IDEA</li>
-    </ul>
-
 
     
