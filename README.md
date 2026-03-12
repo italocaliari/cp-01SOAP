@@ -35,8 +35,8 @@
 
   <h3>1. Pré-requisitos</h3>
     <ul>
-        <li>Java JDK 17 ou superior.</li>
-        <li>Maven instalado e configurado no IntelliJ IDEA.</li>
+        <li>Java JDK 25.0.2.</li>
+        <li>Maven instalado.</li>
     </ul>
 
   <h3>2. Passo a Passo</h3>
